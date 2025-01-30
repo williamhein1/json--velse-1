@@ -1,0 +1,15 @@
+{
+    "navne": {
+    "fornavn": "Sofie",
+    "efternavn": "Jensen"
+},
+"alder": 23,
+"studerende": true,
+"interesser": ["Design", "Medier", "Mode"],
+"adresse": {
+    "vej": "Richard Mortensens Vej 36",
+    "by": "København S",
+    "postnummer": 2300
+},
+"fødselsdato": "2001-06-22"
+}
