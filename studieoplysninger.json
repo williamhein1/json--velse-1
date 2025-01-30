@@ -1,0 +1,17 @@
+{
+    "navn": {
+        "fornavn": "William",
+        "efternavn": "Hein"
+    },
+    "alder": 30,
+    "studerende": true,
+    "studieretning": "multimedie design",
+    "faglig interesser": ["Grafisk design", "UI/UX", "Foto/video produktion"],
+    "email": "william.hein1@gmail.com",
+    "fortrukne arbejdssted": ["bibloteket", "sofaerne"],
+    "adresse": {
+        "vej": "oehlensclægergade 72",
+        "by": "københavn V",
+        "postnummer": 1663
+    }
+}
