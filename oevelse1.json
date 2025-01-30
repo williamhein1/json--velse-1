@@ -1,0 +1,15 @@
+{
+    "navne":{
+        "fornavn":"ida",
+        "efternavn":"Rodis Clausen"
+    },
+    "alder":21,
+    "studerende": true, 
+    "interesser":["Design","Medier","Rejser"],
+    "adresse":{ 
+        "vej": "Arkonagade",
+        "by": "København V",
+        "postnummer":"1629"
+},
+"fødselsdato":2003-20-05
+}
