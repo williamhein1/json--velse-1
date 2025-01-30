@@ -1,0 +1,48 @@
+{
+    "studerende": [{
+        "navne": {
+    "fornavn": "Sofie",
+    "efternavn": "Nielsen"
+},
+"alder": 23,
+"interesser": ["Design", "Medier", "Mode"],
+"adresse": {
+    "vej": "Richard Mortensens Vej 36",
+    "by": "København S",
+    "postnummer": 2300
+},
+"fødselsdato": "2001-06-22"
+    },
+    {
+        "navne":{
+        "fornavn":"ida",
+        "efternavn":"Rodis Clausen"
+    },
+    "alder":21,
+    "interesser":["Design","Medier","Rejser"],
+    "adresse":{ 
+        "vej": "Arkonagade",
+        "by": "København V",
+        "postnummer": 1629
+},
+"fødselsdato": "2003-20-05"
+    },
+    {
+      "navn": {
+        "fornavn": "William",
+        "efternavn": "Hein"
+    },
+    "alder": 22,
+    "studieretning": "multimedie design",
+    "interesser": ["Grafisk design", "UI/UX", "Foto/video produktion"],
+    "email": "william.hein1@gmail.com",
+    "fortrukne arbejdssted": ["bibloteket", "sofaerne"],
+    "adresse": {
+        "vej": "oehlensclægergade 72",
+        "by": "københavn V",
+        "postnummer": 1663
+    }  
+    }
+    ]
+}
+
